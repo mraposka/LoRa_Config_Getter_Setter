@@ -1,0 +1,13 @@
+../Core/Src/e220.c:66:17:e220_baud_enum_to_val	1
+../Core/Src/e220.c:78:20:e220_apply_uart_baud	3
+../Core/Src/e220.c:93:6:E220_WaitAux	5
+../Core/Src/e220.c:116:13:E220_SetMode	6
+../Core/Src/e220.c:152:13:E220_Init	6
+../Core/Src/e220.c:179:6:E220_UnpackRegisters	1
+../Core/Src/e220.c:205:6:E220_PackRegisters	5
+../Core/Src/e220.c:241:13:e220_flush_rx	2
+../Core/Src/e220.c:254:13:E220_ReadConfig	10
+../Core/Src/e220.c:304:13:E220_WriteConfig	15
+../Core/Src/e220.c:376:6:E220_PrintConfig	6
+../Core/Src/e220.c:417:13:E220_SendData	8
+../Core/Src/e220.c:444:13:E220_ReceiveData	9
