@@ -8,13 +8,7 @@
 - [Proje Yapısı](#proje-yapısı)
 - [Derleme ve Yükleme](#derleme-ve-yükleme)
 - [Uygulama Modları (READ / WRITE)](#uygulama-modları-read--write)
-- [Live Expressions ile İzleme](#live-expressions-ile-izleme)
 - [Sürücü API'si](#sürücü-apisi)
-- [Konfigürasyon Yapısı ve Enum'lar](#konfigürasyon-yapısı-ve-enumlar)
-- [E220 Register Haritası](#e220-register-haritası)
-- [Mod / AUX Mantığı](#mod--aux-mantığı)
-- [Baud (UART Hızı) Mantığı — Önemli](#baud-uart-hızı-mantığı--önemli)
-- [Sorun Giderme](#sorun-giderme)
 ---
 ## Donanım ve Pin Haritası
 | İşlev | STM32 Pini | E220 Pini / Not |
